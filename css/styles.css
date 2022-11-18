@@ -1,0 +1,958 @@
+.nav{
+    background-color: #000324;
+    justify-content: center;
+    width: 1920px
+    
+}
+
+.img{
+    display: block;
+    margin-left: 890px;
+    margin-right: auto;
+    width: 50%;
+    margin-top: -100px;
+}
+
+
+.nav-item1{
+    margin-top: 80px;
+    font: normal normal normal 20px/26px Dosis;
+}
+
+.nav-item2{
+    margin-top: 80px;
+    font: normal normal normal 20px/26px Dosis;
+}
+
+.nav-item3{
+    margin-top: 80px;
+    font: normal normal normal 20px/26px Dosis;
+}
+
+.nav-item4{
+    margin-top: 80px;
+    margin-left: 250px;
+    font: normal normal normal 20px/26px Dosis;
+}
+
+.nav-item5{
+    margin-top: 80px;
+    font: normal normal normal 20px/26px Dosis;
+}
+
+.nav-item6{
+    margin-top: 80px; 
+    font: normal normal normal 20px/26px Dosis;
+}
+
+.img1{
+    display: block;
+    margin-left: 350px;
+    margin-right: auto;
+    width: 50%;
+    margin-top: 300px;
+}
+
+ .headertxt {
+    color: #E5FEFF;
+    text-align: center;
+    margin-top: -350px;
+    opacity: 0.8;
+    margin-right: 488px; 
+    margin-left: 488px;
+    background: #000324 0% 0% no-repeat padding-box;
+}
+
+ .Run{
+    font: normal normal normal 45px/57px Dosis;
+}
+
+.Explore{
+    font: normal normal normal 16px/20px Source Sans Pro;
+}
+
+.p1{
+color: transparent;
+}
+
+
+.headertxt2{
+ text-align: center;
+ margin-top: -420px;
+ margin-left: 390px;
+ font: normal normal normal 35px/44px Dosis;
+ color:#1A1B26;
+}
+
+.Heading1{
+    margin-left: -180px;
+}
+
+.paragraph1{
+    width: 753px;
+    height: 155px;
+    margin-left: 380px;
+    margin-top: 40px;
+    font: normal normal normal 16px/20px Source Sans Pro;
+    color:#1A1B26;
+}
+
+.paragraph2{
+    width: 753px;
+    height: 155px;
+    margin-left: 380px;
+    margin-top: -80px;
+    font: normal normal normal 16px/20px Source Sans Pro;
+    color:#1A1B26;
+}
+
+.img2{
+    display: block;
+    margin-left: 770px;
+    width: 50%;
+    margin-top: -99px;
+    justify-content: space-evenly;
+}
+
+.spaceout{
+    margin-left: 90px;
+}
+
+.spaceout1{
+    margin-left: 60px;
+}
+
+.img3{
+    display: block;
+    margin-left:1127px;
+    width: 50%;
+    margin-top: -175px; 
+}
+
+.img4{
+    display: block;
+    margin-left: 1300px;
+    width: 50%;
+    margin-top: -180px;  
+}
+
+.img5{
+ margin-top: 400px;
+}
+
+.headertxt4{
+   text-align: center;
+   position: absolute;
+   margin-top: 450px;
+   right: 850px;
+   font: normal normal normal 35px/44px Dosis;
+   color: #FFFFFF;
+}
+.movecard{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: -600px;
+}
+
+.card-title{
+    font: normal normal normal 25px/32px Dosis;
+}
+
+
+.card-text{
+    font: normal normal bold 16px/20px Source Sans Pro;
+}
+
+.Rooms{
+    font: normal normal normal 16px/20px Source Sans Pro;
+}
+
+.Heading2{
+    text-align: center;
+    margin-top: 320px;
+    font: normal normal normal 35px/44px Dosis;
+    color: #1A1B26;
+}
+
+.img6{
+    display: block;
+    margin-left: 360px;
+    margin-right: auto;
+    width: 50%;
+    margin-top: 50px;
+}
+
+.headertxt3{
+    text-align: center;
+    margin-top: -220px;
+    margin-left: 488px;
+    font: normal normal normal 35px/44px Dosis;
+    color:#1A1B26;
+}
+
+
+.price{
+    font: normal normal normal 16px/20px Source Sans Pro;
+    margin-left: -250px;
+    margin-top: 30px;
+    color: #1F51A8;
+}
+.paragraph3{
+    font: normal normal normal 16px/20px Source Sans Pro;
+    width: 561px;
+    height: 95px;
+    margin-left: 480px;
+    margin-top: 30px;
+}
+
+.img7{
+    display: block;
+    margin-left: 960px;
+    margin-right: auto;
+    width: 50%;
+    margin-top: -10px;
+}
+
+.headertxt5{
+    text-align: center;
+    margin-top: -220px;
+    margin-right: 820px;
+    font: normal normal normal 35px/44px Dosis;
+    color:#1A1B26;
+}
+
+.price2{
+    font: normal normal normal 16px/20px Source Sans Pro;
+    margin-left: -183px;
+    margin-top: 30px;
+    color: #1F51A8;
+}
+
+.paragraph4{
+    font: normal normal normal 16px/20px Source Sans Pro;
+    width: 561px;
+    height: 95px;
+    margin-left: 350px;
+    margin-top: 30px;
+}
+
+.img8{
+    display: block;
+    margin-left: 360px;
+    margin-right: auto;
+    width: 50%;
+    margin-top: 50px;
+}
+
+.headertxt6{
+    text-align: center;
+    margin-top: -220px;
+    margin-left: 488px;
+    font: normal normal normal 35px/44px Dosis;
+    color:#1A1B26;
+}
+
+.price3{
+    font: normal normal normal 16px/20px Source Sans Pro;
+    margin-left: -250px;
+    margin-top: 30px;
+    color: #1F51A8;
+}
+.paragraph5{
+    font: normal normal normal 16px/20px Source Sans Pro;
+    width: 561px;
+    height: 95px;
+    margin-left: 490px;
+    margin-top: 30px;
+}
+
+.Heading5{
+    margin-left: 100px;  
+}
+
+.img9{
+    margin-top: 200px;
+}
+
+.headertxt7{
+    text-align: center;
+    margin-top: -500px;
+    color: #FFFFFF;
+    font: normal normal normal 35px/44px Dosis;
+}
+
+.paragraph6{
+    font: normal normal normal 16px/20px Source Sans Pro;
+    margin-top: 25px;
+}
+
+.movelogo{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 100px;
+    margin-left: -60px;
+}
+
+.txt1{
+    font: normal normal bold 20px/25px Source Sans Pro;
+    color: #FFFFFF;
+    text-align: center;
+    margin-left: -1290px;
+    margin-top: 30px;
+}
+
+.txt2{
+    font: normal normal bold 20px/25px Source Sans Pro;
+    color: #FFFFFF;
+    text-align: center;
+    margin-left: -450px;
+    margin-top: -40px;
+}
+
+.txt3{
+    font: normal normal bold 20px/25px Source Sans Pro;
+    color: #FFFFFF;
+    text-align: center;
+    margin-left: 360px;
+    margin-top: -40px;
+}
+
+.txt4{
+    font: normal normal bold 20px/25px Source Sans Pro;
+    color: #FFFFFF;
+    text-align: center;
+    margin-left: 1160px;
+    margin-top: -40px;
+}
+
+.img10{
+    display: block;
+    margin-left: 360px;
+    margin-right: auto;
+    width: 50%;
+    margin-top: 300px;
+}
+
+.img11{
+    display: block;
+    margin-left: 360px;
+    margin-right: auto;
+    width: 50%;
+}
+
+.headertxt8{
+    color: #FFFFFF;
+    font: normal normal normal 35px/44px Dosis;
+    text-align: center;
+    margin-top: -600px;
+}
+
+.headertxt9{
+    text-align: center;
+    color: #FFFFFF;
+    font: normal normal normal 16px/20px Source Sans Pro;
+    margin-left: -895px;
+    margin-top: 30px;
+}
+
+.headertxt10{
+    text-align: center;
+    color: #FFFFFF;
+    font: normal normal normal 16px/20px Source Sans Pro;
+    margin-left: -500px;
+    margin-top: -36px;
+}
+
+.headertxt11{
+    text-align: center;
+    color: #FFFFFF;
+    font: normal normal normal 16px/20px Source Sans Pro;
+    margin-left: -70px;
+    margin-top: -36px;
+}
+
+.headertxt12{
+    text-align: center;
+    color: #FFFFFF;
+    font: normal normal normal 16px/20px Source Sans Pro;
+    margin-left: 290px;
+    margin-top: -36px;
+}
+
+
+.d-flex{
+    display: block;
+    margin-left: 450px;
+    width: 50%;
+    justify-content: space-around;
+}
+
+.img12{
+    margin-top: 630px;
+}
+
+.img13{
+    display: block;
+    margin-left: 850px;
+    margin-right: auto;
+    width: 50%;
+    margin-top: -280px;
+}
+
+.bottomtxt{
+    color: #FFFFFF;
+    text-align: center;
+    margin-top: 30px;
+}
+
+
+@media screen and (max-width:1920px){
+    .headertxt{
+     background-color: #000324;
+     justify-content: center;
+     width: 50%;
+    } 
+ 
+    .Run{
+     font: normal normal normal 70px Dosis;
+ }
+ 
+ .Explore{
+     font: normal normal normal 20px Source Sans Pro;
+ }
+ }
+ @media screen and (max-width:1441px){
+     .headertxt{
+         background-color: #000324;
+         width: 70%;
+      
+        } 
+ 
+     .Run{
+         font: normal normal normal 70px Dosis;
+     }
+ 
+     .Explore{
+         font: normal normal normal 20px Source Sans Pro;
+     }
+ 
+     .headertxt2{
+         width: 102%;
+     }
+     .paragraph1{
+        font: normal normal normal 20px Source Sans Pro; 
+     }
+     
+     .paragraph2{
+        font: normal normal normal 20px Source Sans Pro;
+     }
+
+     .img2{
+        width: 90%;
+     }
+
+     .headertxt4{
+        text-align: center;
+        margin-right: -400px;
+     }
+
+     .movecard{
+        width: 127%;
+     }
+     .card-text{
+        font: normal normal bold 20px Source Sans Pro;
+    }
+    
+    .Rooms{
+        font: normal normal normal 16px Source Sans Pro;
+    }
+
+    .Heading2{
+        margin-left: 400px;
+    }
+
+    .headertxt3{
+        width: 95%;
+    }
+
+    .Heading3{
+        font: normal normal normal 40px Dosis;
+    }
+
+    .price{
+        font: normal normal normal 20px Source Sans Pro;
+        width: 120%;
+    }
+
+    .paragraph3{
+        font: normal normal normal 17px Source Sans Pro; 
+    }
+
+    .headertxt5{
+        width: 73%;
+    }
+
+    .Heading4{
+        font: normal normal normal 40px Dosis;
+    }
+
+    .price2{
+        font: normal normal normal 20px Source Sans Pro;
+       width: 120%;
+    }
+
+    .paragraph4{
+        font: normal normal normal 17px Source Sans Pro;   
+    }
+
+    .headertxt6{
+        width: 95%;
+    }
+    
+    .Heading5{
+        font: normal normal normal 40px Dosis;
+    }
+
+    .price3{
+        font: normal normal normal 20px Source Sans Pro;
+        width: 120%;
+    }
+
+    .paragraph5{
+        font: normal normal normal 17px Source Sans Pro; 
+    }
+
+    .headertxt7{
+        width: 125%;   
+    }
+
+    .paragraph6{
+        font: normal normal normal 17px Source Sans Pro;  
+    }
+
+    .movelogo{
+        width: 130%;
+    }
+
+    .txt1{
+        margin-left: 10px;
+        margin-right: 900px;
+    }
+    
+    .txt2{
+        margin-left: -30px;
+    }
+
+    .txt3{
+        margin-left: 710px;
+    }
+
+    .txt4{
+      margin-right: -350px;
+    }
+
+    .headertxt8{
+        width: 125%;
+    }
+
+    .headertxt9{
+         width: 191%;
+    }
+
+    .headertxt10{
+        width: 164%;
+    }
+
+    .headertxt11{
+       width: 135%;
+    }
+
+    .headertxt12{
+       width: 109%;
+    }
+
+    .d-flex{
+        width: 65%;
+    }
+
+    .bottomtxt{
+        width: 125%;
+    }
+ }
+ 
+ @media screen and (max-width:1025px){
+     
+     .headertxt{
+         background-color: #000324;
+         justify-content: center;
+        
+        } 
+
+    .nav-item1{
+        font: normal normal normal 25px Source Sans Pro;  
+    }
+
+    .nav-item2{
+        font: normal normal normal 25px Source Sans Pro;  
+    }
+
+    .nav-item3{
+        font: normal normal normal 25px Source Sans Pro;  
+    }
+
+    .nav-item4{
+        font: normal normal normal 25px Source Sans Pro;  
+    }
+
+    .nav-item5{
+        font: normal normal normal 25px Source Sans Pro;  
+    }
+    
+    .nav-item6{
+        font: normal normal normal 25px Source Sans Pro;  
+    }
+
+    .Run{
+         font: normal normal normal 70px Dosis;
+        }
+        
+    .Explore{
+        font: normal normal normal 30px Source Sans Pro;
+        }
+
+     .headertxt2{
+         width: 140%;
+     }
+     .paragraph1{
+        font: normal normal normal 20px Source Sans Pro; 
+     }
+     
+     .paragraph2{
+        font: normal normal normal 20px Source Sans Pro;
+     }
+
+     .img2{
+        width: 90%;
+     }
+
+     .headertxt4{
+        margin-right: -830px;
+     }
+
+     .movecard{
+        width: 180%;
+     }
+     .card-text{
+        font: normal normal bold 20px Source Sans Pro;
+    }
+    
+    .Rooms{
+        font: normal normal normal 17px Source Sans Pro;
+    }
+
+    .Heading2{
+        margin-left: 800px;
+    }
+
+    .headertxt3{
+        width: 135%;
+    }
+
+    .Heading3{
+        font: normal normal normal 40px Dosis;
+    }
+
+    .price{
+        font: normal normal normal 20px Source Sans Pro;
+        width: 120%;
+    }
+
+    .paragraph3{
+        font: normal normal normal 17px Source Sans Pro; 
+    }
+
+    .headertxt5{
+        width: 102%;
+    }
+
+    .Heading4{
+        font: normal normal normal 40px Dosis;
+    }
+
+    .price2{
+        font: normal normal normal 20px Source Sans Pro;
+       width: 120%;
+    }
+
+    .paragraph4{
+        font: normal normal normal 17px Source Sans Pro;   
+    }
+
+    .headertxt6{
+        width: 135%;
+    }
+    
+    .Heading5{
+        font: normal normal normal 40px Dosis;
+    }
+
+    .price3{
+        font: normal normal normal 20px Source Sans Pro;
+        width: 120%;
+    }
+
+    .paragraph5{
+        font: normal normal normal 17px Source Sans Pro; 
+    }
+
+    .headertxt7{
+        width: 175%;   
+    }
+
+    .paragraph6{
+        font: normal normal normal 19px Source Sans Pro;  
+    }
+
+    .movelogo{
+        width: 190%;
+    }
+
+    .txt1{
+        width:55%;
+       
+    }
+    
+    .txt2{
+       width: 150%;
+    }
+
+    .txt3{
+       width: 80%;
+    }
+
+    .txt4{
+      width: 73%;
+    }
+
+    .headertxt8{
+        width: 125%;
+    }
+
+    .headertxt9{
+         width: 270%;
+    }
+
+    .headertxt10{
+        width: 236%;
+    }
+
+    .headertxt11{
+       width: 200%;
+    }
+
+    .headertxt12{
+       width: 165%;
+    }
+
+    .d-flex{
+        width: 100%;
+    }
+
+    .bottomtxt{
+        width: 180%;
+    }
+}
+ 
+ @media screen and (max-width:769px){
+     .headertxt{
+         background-color: #000324;
+         justify-content: center;
+         width: 120%;
+        } 
+ 
+        .nav-item1{
+            font: normal normal normal 25px Source Sans Pro;  
+        }
+    
+        .nav-item2{
+            font: normal normal normal 25px Source Sans Pro;  
+        }
+    
+        .nav-item3{
+            font: normal normal normal 25px Source Sans Pro;  
+        }
+    
+        .nav-item4{
+            font: normal normal normal 25px Source Sans Pro;  
+        }
+    
+        .nav-item5{
+            font: normal normal normal 25px Source Sans Pro;  
+        }
+        
+        .nav-item6{
+            font: normal normal normal 25px Source Sans Pro;  
+        }
+    
+        .Run{
+             font: normal normal normal 70px Dosis;
+            }
+            
+        .Explore{
+            font: normal normal normal 30px Source Sans Pro;
+            }
+            
+        
+         .headertxt2{
+             width: 180%;
+         }
+         .paragraph1{
+            font: normal normal normal 20px Source Sans Pro; 
+         }
+         
+         .paragraph2{
+            font: normal normal normal 20px Source Sans Pro;
+         }
+    
+         .img2{
+            width: 130%;
+         }
+    
+         .headertxt4{
+            margin-right: -1080px;
+         }
+    
+         .movecard{
+            width: 240%;
+         }
+         .card-text{
+            font: normal normal bold 20px Source Sans Pro;
+        }
+        
+        .Rooms{
+            font: normal normal normal 17px Source Sans Pro;
+        }
+    
+        .Heading2{
+            margin-left: 850px;
+        }
+    
+        .headertxt3{
+            width: 180%;
+        }
+    
+        .Heading3{
+            font: normal normal normal 40px Dosis;
+        }
+    
+        .price{
+            font: normal normal normal 20px Source Sans Pro;
+            width: 120%;
+        }
+    
+        .paragraph3{
+            font: normal normal normal 17px Source Sans Pro; 
+        }
+    
+        .headertxt5{
+            width: 140%;
+        }
+    
+        .Heading4{
+            font: normal normal normal 40px Dosis;
+        }
+    
+        .price2{
+            font: normal normal normal 20px Source Sans Pro;
+           width: 120%;
+        }
+    
+        .paragraph4{
+            font: normal normal normal 17px Source Sans Pro;   
+        }
+    
+        .headertxt6{
+            width: 180%;
+        }
+        
+        .Heading5{
+            font: normal normal normal 40px Dosis;
+        }
+    
+        .price3{
+            font: normal normal normal 20px Source Sans Pro;
+            width: 120%;
+        }
+    
+        .paragraph5{
+            font: normal normal normal px Source Sans Pro; 
+        }
+    
+        .headertxt7{
+            width: 230%; 
+        }
+
+        .Heading6{
+            font: normal normal normal px Dosis;
+        }
+    
+        .paragraph6{
+            font: normal normal normal 19px Source Sans Pro;  
+        }
+    
+        .movelogo{
+            width: 250%;
+        }
+    
+        .txt1{
+            width:75%;
+           
+        }
+        
+        .txt2{
+           width: 190%;
+        }
+    
+        .txt3{
+           width: 103%;
+        }
+    
+        .txt4{
+          width: 90%;
+        }
+    
+        .headertxt8{
+            width: 240%;
+        }
+    
+        .headertxt9{
+             width: 360%;
+        }
+    
+        .headertxt10{
+            width: 313%;
+        }
+    
+        .headertxt11{
+           width: 260%;
+        }
+    
+        .headertxt12{
+           width: 220%;
+        }
+    
+        .d-flex{
+            width: 130%;
+        }
+        
+        .bottomtxt{
+            width: 240%;
+          
+        }
+    }
+    
+    
+
+   
